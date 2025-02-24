@@ -1,6 +1,6 @@
 {
-  "telegramApiToken": 7592716883:AAHmKfhN5aQuhOWY1iBjtaNERSePM0jM8dY,
-  "chatId": 771180300,
+  "telegramApiToken": "7592716883:AAHmKfhN5aQuhOWY1iBjtaNERSePM0jM8dY",
+  "chatId": "771180300",
   "projects": [
     {
       "topic": "netivot",
