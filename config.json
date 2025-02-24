@@ -1,10 +1,10 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken": 7592716883:AAHmKfhN5aQuhOWY1iBjtaNERSePM0jM8dY,
+  "chatId": 771180300,
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "netivot",
+      "url": "https://www.yad2.co.il/realestate/rent?topArea=43&area=85&city=0246&floor=0-1&zoom=13"
     }
   ]
 }
